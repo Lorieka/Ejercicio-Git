@@ -1,0 +1,33 @@
+h1 {
+    color: blueviolet;
+    text-transform: uppercase;
+    text-align: center;
+    font-weight: bold;
+    font-style: italic;
+    font-size: 70px;
+    font-family: fantasy;
+    
+    
+}
+
+h2 {
+    font-size: 50px;
+    color: green;
+    background-color: rgb(219, 255, 179);
+    padding: 30px;
+    text-align: center;
+    font-family: cursive;
+}
+
+.texto-personalizado{
+    background-color: rgb(12, 82, 39);
+    font-size: 30px;
+    text-align: center;
+    font-family: cursive;color: rgb(253, 253, 253);
+}
+
+div img {
+    width: 70%;
+    
+   
+}
